@@ -50,7 +50,7 @@ Then to start the webapplication, go to your browser and enter your IP address w
 
 > http://192.168.178.241:5000
 
-# Run the embedded code (Platformio)
+# Run the embedded program (Platformio)
 
 Make sure to install the Platformio plugin on VSCode:
 https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide
